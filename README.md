@@ -6,13 +6,19 @@ Jangan lupa kunjungin fanspage saya. = https://facebook.com/miku.kali.termux
 # CATA INSTALL 
 
 $ apt update && apt upgrade
+
 $ apt install python2
+
 $ apt install git
+
 $ git clone https://github.com/nethunter-termux/deface-site
+
 $ cd deface-site
+
 $ pip2 install -r requirements.txt
 
 # JALANKAN DENGAN
+
 $ python2 Exploit.py
 
 # SEDIKIT INFO TAMBAHAN
